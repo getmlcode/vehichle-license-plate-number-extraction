@@ -39,4 +39,4 @@ pytesseract
 tqdm
 
 # References
-Guided by this [Youtube Tutorial](https://github.com/udacity/CarND-Semantic-Segmentation/blob/master/helper.py)  
+Guided by this [Youtube Tutorial](https://www.youtube.com/watch?v=POmyidzahLg)  
