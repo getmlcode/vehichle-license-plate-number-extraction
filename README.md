@@ -24,3 +24,19 @@ So I trained it on CPU for 5 Epochs and it took 22 hours.
 ![](runs/detect/train2/PR_curve.png)  | ![](runs/detect/train2/P_curve.png) 
 ![](runs/detect/train2/R_curve.png)  | ![](runs/detect/train2/labels_correlogram.png) 
 ![](runs/detect/train2/labels.png)  | ![](runs/detect/train2/confusion_matrix.png) 
+
+# Future Work
+* [ ] Add GUI.
+* [ ] Add more object detection models other than YOLO.
+* [ ] Live detection and extraction.
+
+# Requirements
+os  
+ultralytics  
+cv2  
+re  
+pytesseract
+tqdm
+
+# References
+Guided by this [Youtube Tutorial](https://github.com/udacity/CarND-Semantic-Segmentation/blob/master/helper.py)  
