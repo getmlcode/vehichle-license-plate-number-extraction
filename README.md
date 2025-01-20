@@ -5,7 +5,7 @@ Trained YOLOv11 on custom dataset of license plates with ultralytics and used te
 Download the License Plate Dataset from [here](https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/4)
 
 #### *`Detection and Extraction On Video`*
-shown as gif file as github doesn't display videos
+shown as gif (github doesn't display videos)
 ![](test_vids/out_1.gif)
 
 #### *`Detection and Extraction On Images`*
