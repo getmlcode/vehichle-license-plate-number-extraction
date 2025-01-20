@@ -1,7 +1,5 @@
 from tabnanny import verbose
 import cv2
-from shapely import box
-from sympy import false
 from tqdm import tqdm
 from ultralytics import YOLO
 import os
