@@ -35,7 +35,7 @@ os
 ultralytics  
 cv2  
 re  
-pytesseract
+pytesseract  
 tqdm
 
 # References
