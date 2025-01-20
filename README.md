@@ -13,4 +13,4 @@ shown as gif file as github doesn't display videos
 | ------------- |:-------------:|
 ![](test_images/1_out.jpg) | ![](test_images/2_out.jpg) 
 ![](test_images/12_out.jpg)  | ![](test_images/14_out.jpg) 
-![](test_images/4_out.jpg)  |
+![](test_images/4_out.jpg)  | ![](test_images/11_out.jpg) 
