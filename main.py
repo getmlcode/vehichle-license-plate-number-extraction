@@ -20,7 +20,7 @@ if __name__ == "__main__":
     img, number_coords_and_text_list = (
         license_plate_detection.get_license_plate_number_img(
             "D:\Acads\IISc ME\Projects\DLPretrainedModels\YoloUltralytics\LicensePlateFineTuned.pt",
-            "D:\Acads\IISc ME\Projects\ObjectDetection\\test_images\\14.jpg",
+            "D:\Acads\IISc ME\Projects\ObjectDetection\\test_images\\11.jpg",
         )
     )
 
@@ -61,6 +61,10 @@ if __name__ == "__main__":
 
     cv2.imshow("vehicle number", img)
     cv2.waitKey(0)
+
+    cv2.imwrite(
+        "D:\Acads\IISc ME\Projects\ObjectDetection\\test_images\\11_out.jpg", img
+    )
 
     # license_plate_detection.detect_license_plate_number_vid(
     #     "D:\Acads\IISc ME\Projects\DLPretrainedModels\YoloUltralytics\LicensePlateFineTuned.pt",
