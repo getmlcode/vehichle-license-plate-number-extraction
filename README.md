@@ -9,7 +9,6 @@ shown as gif file as github doesn't display videos
 ![](test_vids/out_1.gif)
 
 #### *`Detection and Extraction On Images`*
-shown as gif file as github doesn't display videos
 |               |		        |
 | ------------- |:-------------:|
 ![](test_images/1_out.jpg) | ![](test_images/2_out.jpg) 
